@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7c6589f9ef23b414696227362ff190bc
-timeCreated: 1538451298
+guid: 33fe40b5ca22c6b41aee6639aac457ec
+timeCreated: 1538457597
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -20,7 +20,8 @@ ModelImporter:
     100024: Cylinder001
     100026: Cylinder002
     100028: Cylinder003
-    100030: //RootNode
+    100030: Object
+    100032: //RootNode
     400000: 002
     400002: 003
     400004: 004
@@ -36,7 +37,8 @@ ModelImporter:
     400024: Cylinder001
     400026: Cylinder002
     400028: Cylinder003
-    400030: //RootNode
+    400030: Object
+    400032: //RootNode
     2300000: 002
     2300002: 003
     2300004: 004
@@ -52,6 +54,7 @@ ModelImporter:
     2300024: Cylinder001
     2300026: Cylinder002
     2300028: Cylinder003
+    2300030: Object
     3300000: 002
     3300002: 003
     3300004: 004
@@ -67,6 +70,7 @@ ModelImporter:
     3300024: Cylinder001
     3300026: Cylinder002
     3300028: Cylinder003
+    3300030: Object
     4300000: Cylinder001
     4300002: 1
     4300004: 002
@@ -82,6 +86,7 @@ ModelImporter:
     4300024: 012
     4300026: Cylinder002
     4300028: Cylinder003
+    4300030: Object
     7400000: Take 001
     9500000: //RootNode
   materials:
